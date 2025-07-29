@@ -18,14 +18,22 @@ Este projeto é uma aplicação simples de gerenciamento de tarefas com usuário
 br.com.dio.BoardDio
 │
 ├── model/
+
 │ ├── User.java
+
 │ └── Task.java
+
 │
+
 ├── repository/
+
 │ ├── UserRepository.java
+
 │ └── TaskRepository.java
+
 │
 ├── BoardDioApplication.java
+
 
 
 ## 💡 Funcionalidades
